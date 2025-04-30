@@ -3,13 +3,13 @@ theme: default
 background: https://cover.sli.dev
 title: Dgo Tech hub | Backend as a service
 info: |
-  ## Backend as as service - Quick getting started to Supabase
+  ## Backend as as service - Un introduccion rapida a supabase
   By Azael Fernandez @ tribu.dev
-class: text-center
-drawings:
-  persist: false
 transition: slide-left
 mdc: true
+fonts:
+  # basically the text
+  sans: Robot
 ---
 
 ---
@@ -18,11 +18,11 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-# Backend as a service - Quick Supabase Getting Started
+# Backend as a service - Una introduccion rapida a Supabase
 
 <img class="h-50 w-50 m-auto" src="./images/qr-site.png" alt="QRs Site"/>
 
-[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
+[Linkedin](www.linkedin.com/in/azael-fernandez) · [GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
 
 Azael Fernandez @ 2025
 
@@ -37,21 +37,20 @@ layoutClass: text-center
 ---
 transition: slide-up
 layout: image
-layoutClass: gap-16
+layoutClass: text-center
 ---
 
-# Cloud Providers / Cloud services
+# Cloud Providers
 
 <img class="shadow-xl rounded-md" src="./images/top-cloud-providers.png" alt="Top cloud providers"/>
 ---
 layout: image
+
 ---
 
-# Types of Cloud Computing
+# Tipos de Cloud Computing
 
-## What are the types of cloud computing?
-
-<img class="shadow-xl rounded-md" src="./images/iass-paas.png" alt="IAAS vs PaaS"/>
+<img class="h-150 w-150 text-center" src="./images/iass-paas.png" alt="IAAS vs PaaS"/>
 ---
 transition: slide-up
 layout: center
@@ -95,13 +94,13 @@ layout: two-cols
 - Documentacion
 - Comunidad
 - Open source
-- Free tier (no-credit card required)
+- Opcion gratuita
 
 ## Modulos
 
-- Auth
-- Database
-- Storage
+- Autenticacion
+- Base de datos
+- Almacenamiento
 
 ::right::
 
@@ -128,11 +127,11 @@ layout: center
 class: text-center
 ---
 
-# Thank you!
+# Gracias!
 
 <img class="h-50 w-50 m-auto" src="./images/qr-site.png" alt="QRs Site"/>
 
-[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
+[Linkedin](www.linkedin.com/in/azael-fernandez) · [GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
 
 Azael Fernandez @ 2025
 
@@ -140,7 +139,7 @@ Azael Fernandez @ 2025
 layout: center
 ---
 
-# Learn more
+# Fuentes
 
 - [amazon/what-is/iaas](https://aws.amazon.com/what-is/iaas/)
 - [supabase.com/database](https://supabase.com/database)
