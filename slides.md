@@ -20,7 +20,12 @@ layoutClass: gap-16
 
 # Backend as a service - Quick Supabase Getting Started
 
-Azael Fernandez 2025
+<img class="h-50 w-50 m-auto" src="./images/qr-site.png" alt="QRs Site"/>
+
+[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
+
+Azael Fernandez @ 2025
+
 
 ---
 transition: slide-up
@@ -125,7 +130,9 @@ class: text-center
 
 # Thank you!
 
-[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/microfrontends-dgotechhub-speaking) · [Tribu.dev](https://www.tribu.dev)
+<img class="h-50 w-50 m-auto" src="./images/qr-site.png" alt="QRs Site"/>
+
+[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/backend-as-a-service_talk) · [Tribu.dev](https://www.tribu.dev)
 
 Azael Fernandez @ 2025
 
